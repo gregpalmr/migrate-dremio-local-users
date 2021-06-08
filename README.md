@@ -1,7 +1,9 @@
 # migrate-dremio-local-users
-Create user in a new Dremio cluster from users referenced in a Dremio Cloner backup file
+Create users in a new Dremio cluster from users referenced in a Dremio Cloner backup file
 
-## This python script can be used to create local Dremio users in a newly stages Dremio cluster, based on the users referenced in a Dremio Cloner backup file.
+## Description
+
+This python script can be used to create local Dremio users in a newly stages Dremio cluster, based on the users referenced in a Dremio Cloner backup file.
 
 For Dremio Cloner information, see: https://github.com/deane-dremio/dremio-cloner
 
@@ -55,5 +57,5 @@ Step 4. Before running the Dremio Cloner PUT operation, run this script to creat
 
 ---
 
-### Direct comments or questions to greg@dremio.com
+Direct comments or questions to greg@dremio.com
 
