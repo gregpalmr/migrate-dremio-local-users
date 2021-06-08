@@ -39,13 +39,13 @@ Step 4. Before running the Dremio Cloner PUT operation, run this script to creat
      Running migrate-dremio-users.py - a python script that creates users in a new Dremio cluster
      from users referenced in a Dremio Cloner backup file.
 
-     Enter New Dremio Cluster's HTTP URL: [http://localhost:9047] **https://10.5.15.201:9047**
+     Enter New Dremio Cluster's HTTP URL: [http://localhost:9047] https://10.5.15.201:9047
 
-     Enter New Dremio Cluster's Admin User ID: **greg**
+     Enter New Dremio Cluster's Admin User ID: greg
 
      Enter Admin Password: ******
 
-     Enter the name of the Dremio Cloner backup file: [dremio-cloner.backup] **dremio-cloner.backup**
+     Enter the name of the Dremio Cloner backup file: [dremio-cloner.backup] dremio-cloner.backup
 
        Successfully authenticated.
 
